@@ -4008,11 +4008,11 @@ msgstr "Besoekte skakels:"
 
 msgctxt "forecast"
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #. in https://duckduckgo.com/feedback under "DuckDuckHack" header
 msgid "Want to develop an instant answer?"
-msgstr " Wil jy 'n direkte antwoord te ontwikkel?"
+msgstr " Wil u ’n kitsantwoord ontwikkel?"
 
 #. e.g. Video search viewing options: http://i.imgur.com/ofZeLRn.png
 msgid "Watch Here"
@@ -4023,13 +4023,13 @@ msgstr "Kyk op YouTube"
 
 msgctxt "SERP footer content"
 msgid "We Protect Your Privacy"
-msgstr ""
+msgstr "Ons Beskerm U Privaatheid"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/vBsbibl.png
 msgctxt "cloudsave"
 msgid "We cannot reverse the passphrase key generation."
-msgstr "Ons kan nie die wagwoord sleutel generasie omkeer nie."
+msgstr "Ons kan nie die wagwoordsleutelgenerering omkeer nie."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/pZ0pyIJ.png
@@ -4038,7 +4038,7 @@ msgid ""
 "We do not have usernames and we don't store any personally identifiable "
 "information."
 msgstr ""
-"Ons het nie gebruikers name nie, en ons stoor nie enige persoonlike "
+"Ons het nie gebruikersname nie, en ons stoor geen persoonlike "
 "inligting nie."
 
 #. https://duckduckgo.com/about under "We believe in better search and real privacy at the same time. That's why: "
@@ -4053,7 +4053,7 @@ msgid ""
 "We don't associate your IP address or browser fingerprint or any other "
 "information with the file."
 msgstr ""
-"Ons assosieer nie jou IP-adres of webblaaier vingerafdruk of enige ander "
+"Ons assosieer nie u IP-adres of webblaaiervingerafdruk of enige ander "
 "inligting met die lêer nie."
 
 msgctxt "reasons-to-use-duckduckgo"
@@ -4078,7 +4078,7 @@ msgstr "Ons bewaar nie u persoonlike inligting nie."
 
 msgctxt "SERP footer content"
 msgid "We don't store your search history or follow you around the web."
-msgstr ""
+msgstr "Ons bewaar nie u soekgeskiedenis nie en volg u nie op die web rond nie."
 
 msgctxt "SERP footer content"
 msgid "We don't track you, but others do."
@@ -4086,7 +4086,7 @@ msgstr "Ons spoor u nie na nie, maar andere doen dit steeds."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't track you, including private browsing mode."
-msgstr "Ons volg u nie, insluitend privaatblaaimodus."
+msgstr "Ons spoor u nie na nie, insluitend privaatblaaimodus."
 
 msgctxt "new user poll"
 msgid ""
@@ -4105,11 +4105,11 @@ msgstr ""
 "het om ons vandag op die proef te stel:"
 
 msgid "We don't track you."
-msgstr "Ons volg u nie."
+msgstr "Ons spoor u nie na nie."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't track you. Ever."
-msgstr "Ons volg u nie. Nooit."
+msgstr "Ons spoor u nie na nie. Nooit."
 
 msgctxt "homepage onboarding"
 msgid "We don’t follow you around with ads."
@@ -4193,7 +4193,7 @@ msgstr "Waarvan het u gehou?"
 #. Then in the cloud save box - http://i.imgur.com/ta4V0Xy.png
 msgctxt "cloudsave"
 msgid "What information gets saved?"
-msgstr "Watter inligting word gestoor?"
+msgstr "Watter inligting word bewaar?"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/YrfhzTL.png
@@ -4202,7 +4202,7 @@ msgid ""
 "What is the cloud save bookmarklet and how does it differ from the URL "
 "parameter bookmarklet?"
 msgstr ""
-" Wat is die Cloud Save boekmerkie en hoe verskil dit van die URL parameter "
+"Wat is die Cloud Save boekmerkie en hoe verskil dit van die URL parameter "
 "boekmerkie?"
 
 #. http://i.imgur.com/fDEZ8XN.png
@@ -4258,11 +4258,11 @@ msgstr "Wikipedia-inligting"
 
 msgctxt "forecast"
 msgid "Wind"
-msgstr ""
+msgstr "Wind"
 
 #. https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Would you like to help develop the platform?"
-msgstr "Wil jy help om die platform te ontwikkel?"
+msgstr "Wil u help om die platform te ontwikkel?"
 
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "
 msgid "Yellow"
@@ -4279,7 +4279,7 @@ msgstr "Ja"
 
 msgctxt "new user poll"
 msgid "Yes, new user!"
-msgstr "30"
+msgstr "Ja, nuwe gebruiker"
 
 #. Option for the filter-by-date search.
 msgid "Yesterday"
@@ -4292,7 +4292,7 @@ msgid ""
 "You can do this by saving your settings under a different passphrase, "
 "optionally deleting the first set."
 msgstr ""
-"U kan dit doen deur u instellings onder ’n ander wagwoordfrase te bewaar; u "
+"U kan dit doen deur u instellings onder ’n ander wagfrase te bewaar; u "
 "sal die opsie gebied word om die eerste stel te skrap."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
@@ -4312,7 +4312,7 @@ msgstr "U kan u instellings tussen rekenaars en webblaaiers deel."
 msgctxt "cloudsave"
 msgid "You can store several sets of settings for different purposes."
 msgstr ""
-"Jy kan verskillende stelle stellings stoor vir verskillende doeleindes."
+"U kan verskillende stelle instellings vir verskillende doeleindes bewaar."
 
 msgid ""
 "You now have the tools you need to control your online footprint and take "
@@ -4339,8 +4339,8 @@ msgid ""
 "YouTube (owned by Google) does not let you watch videos anonymously. As "
 "such, watching YouTube videos here will be tracked by YouTube/Google."
 msgstr ""
-"YouTube (besit deur Google) laat jou nie toe om anoniem videos te kyk nie. "
-"Dus wanneer jy YouTube videos hier kyk, sal YouTube/Google jou volg."
+"YouTube (besit deur Google) laat u nie toe om anoniem videos te kyk nie. "
+"Wanneer u dus YouTube-videos hier kyk, sal YouTube/Google u volg."
 
 msgid "YouTube Privacy Warning"
 msgstr "YouTube-privaatheidswaarskuwing"
@@ -4351,7 +4351,7 @@ msgstr "YouTube-standaard"
 
 #. Floating text over a tick next to search results which indicates if a link has been visited.
 msgid "Your browser indicates if you've visited this link"
-msgstr "Jou webblaaier dui aan dat jy reeds die skakel gevolg het"
+msgstr "U webblaaier dui aan dat u reeds die skakel gevolg het"
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
@@ -4442,14 +4442,14 @@ msgstr "geen soek"
 
 msgctxt "webelieve"
 msgid "no tracking"
-msgstr "geen monitering"
+msgstr "geen nasporing"
 
 msgid "not %s encoding"
-msgstr "nie %s encoding"
+msgstr "nie %s-enkodering"
 
 #. in https://duckduckgo.com/newbang on the fields: "Email" and "Comments"
 msgid "optional"
-msgstr "optioneel"
+msgstr "opsioneel"
 
 #. Used for the <em>color settings</em> into the <a href="https://duckduckgo.com/params.html">URL params page</a> as the last available value for the color parameter.
 #. <em>%s</em> is for a hexadecimal color code as <em>#395323</em>, but it has to be safe encoded, and as <em>#</em> seems not safe, <em>%23</em> must be used in place of the sharp symbol, but they are the same for your browser. 
@@ -4476,7 +4476,7 @@ msgid "temporarily"
 msgstr "tydelik"
 
 msgid "there was an error."
-msgstr "'n fout het voorgekom."
+msgstr "’n fout het voorgekom."
 
 msgctxt "moreinfo"
 msgid "this help page"
