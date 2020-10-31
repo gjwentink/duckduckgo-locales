@@ -35,7 +35,7 @@ msgstr "%s versper deur veilige soek"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s days ago"
-msgstr ""
+msgstr "%s dae gelede"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -44,14 +44,14 @@ msgstr "%s vir %s"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s hours ago"
-msgstr ""
+msgstr "%s uur gelede"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr "%s in privaatheidskenkings!"
 
 msgid "%s km"
-msgstr ""
+msgstr "%s km"
 
 msgid "%s mi"
 msgstr "%s myl"
@@ -120,12 +120,12 @@ msgstr "%sRegsklik%s in die soekbalk"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
-msgstr ""
+msgstr "1 dag gelede"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 hour ago"
-msgstr ""
+msgstr "1 uur gelede"
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
@@ -145,7 +145,7 @@ msgstr "ATB-afwys"
 
 msgctxt "settings"
 msgid "ATB related (not displayed on settings page)"
-msgstr ""
+msgstr "ATB-verwant (nie op instellingsblad vertoon nie)"
 
 #. In the new DDG website, this token appears as the Tab name for Instant Answers that give general information about a subject. eg. https://duckduckgo.com/?q=Sony
 #. It is not "About DuckDuckGo".
@@ -236,7 +236,7 @@ msgstr "Adresbalk:"
 
 #. as in multiple advertisements
 msgid "Ads"
-msgstr ""
+msgstr "Advertensies"
 
 msgctxt "feedback form"
 msgid "Advertisements"
@@ -325,7 +325,7 @@ msgstr "Geanimeerde GIF"
 
 msgctxt "precise_user_location"
 msgid "Anonymous location enabled."
-msgstr ""
+msgstr "Anonieme ligging geaktiveer"
 
 #. Instant Answer tab name
 msgid "Answer"
@@ -378,7 +378,7 @@ msgstr ""
 
 msgctxt "feedback form"
 msgid "Are these links helpful?"
-msgstr ""
+msgstr "Is hierdie skakels van hulp?"
 
 msgid "Argentina"
 msgstr "Argentinië"
@@ -501,7 +501,7 @@ msgstr "Basies"
 
 msgctxt "precise_user_location"
 msgid "Before you go, please help us understand why:"
-msgstr ""
+msgstr "Help ons asb. verstaan waarom voordat u gaan:"
 
 msgid "Belgium (fr)"
 msgstr "België (fr)"
@@ -515,7 +515,7 @@ msgstr "Beste Beskikbaar"
 
 #. In the right menu panel of the homepage.
 msgid "Beta"
-msgstr ""
+msgstr "Beta"
 
 msgctxt "video-duration"
 msgid "Between 4 and 20 minutes"
@@ -543,12 +543,12 @@ msgstr "Versper advertensienaspeurders."
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
 msgid "Block unsafe trackers"
-msgstr ""
+msgstr "Versper onveilige spoorders"
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Blocks trackers on websites you visit"
-msgstr ""
+msgstr "Versper spoorders op werwe wat u besoek"
 
 msgid "Blog"
 msgstr "Woernaal"
@@ -605,7 +605,7 @@ msgstr "Blaaiervoorkeurtaal"
 
 msgctxt "precise_user_location"
 msgid "Browser location unavailable."
-msgstr ""
+msgstr "Blaaierligging onbeskikbaar."
 
 msgid "Bulgaria"
 msgstr "Bulgarye"
@@ -645,11 +645,11 @@ msgstr "Kanselleer"
 
 msgctxt "precise_user_location"
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselleer"
 
 #. in https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Care to help translate DuckDuckGo into your language?"
-msgstr "Omgee om te help met die vertaling van DuckDuckGo in jou taal?"
+msgstr "Wil u help om DuckDuckGo in u taal te vertaal?"
 
 msgid "Careers"
 msgstr "Loopbane"
@@ -732,7 +732,7 @@ msgstr "Verander die taal oor die hele webwerf"
 
 msgctxt "settings"
 msgid "Changes the result hover, module, and dropdown background color"
-msgstr ""
+msgstr "Verander die resultaathang-, -module- en uitspringagtergrondkleur"
 
 #. http://i.imgur.com/f1bLTY1.png 
 #. Description for "Result Title Color" which changes the color of the results. 
@@ -804,18 +804,18 @@ msgid "Classic"
 msgstr "Klassiek"
 
 msgid "Clear"
-msgstr "Maak Skoon"
+msgstr "Wis"
 
 msgctxt "precise_user_location"
 msgid "Clear"
-msgstr ""
+msgstr "Wis"
 
 msgid "Clear All"
-msgstr "Maak Alle Skoon"
+msgstr "Wis alles"
 
 msgctxt "precise_user_location"
 msgid "Clear Location"
-msgstr ""
+msgstr "Wis ligging"
 
 msgid "Clear Region"
 msgstr "Ledig Streek"
@@ -823,7 +823,7 @@ msgstr "Ledig Streek"
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
 msgid "Clear data in one tap"
-msgstr ""
+msgstr "Wis data met een tik"
 
 msgid "Clear your cookies often?"
 msgstr "Wis u gereeld u koekies?"
@@ -873,7 +873,7 @@ msgstr ""
 "Klik %sOpen%s om die DuckDuckGo-Safari-uitbreiding af te laai en te open"
 
 msgid "Click %sPrivacy and Services%s in the left sidebar."
-msgstr ""
+msgstr "Klik %sPrivaatheid en Dienste%s in die linkersystaaf."
 
 msgid ""
 "Click %sSafari%s in the top menu (On Windows, click the %sgears icon%s in "
@@ -885,7 +885,7 @@ msgid "Click %sSettings%s"
 msgstr "Klik %sInstellings%s"
 
 msgid "Click %sSettings%s in the dropdown."
-msgstr ""
+msgstr "Klik %sInstellings%s in die uispringkieslys."
 
 msgid "Click %sUse current pages%s then %sClick OK%s."
 msgstr "Klik %sGebruik huidige blaaie%s, en dan %sKlik Goed%s."
@@ -942,16 +942,16 @@ msgid "Click the %sGeneral%s tab."
 msgstr "Klik die %sAlgemeen%s-oortjie."
 
 msgid "Click the %sellipsis icon%s in the toolbar."
-msgstr ""
+msgstr "Klik die %sellipsikoon%s in die taakbalk."
 
 msgid "Click the Duck icon at the top of your browser to search!"
 msgstr "Klik die Eend-ikoon bo-aan u blaaier om te soek!"
 
 msgid "Click the Expand Icon."
-msgstr ""
+msgstr "Klik die Uitbrei-ikoon."
 
 msgid "Click the Search Engine Icon in the Address Bar."
-msgstr ""
+msgstr "Klik die soekenjinikoon in die adresbalk"
 
 msgid "Click the arrow to the right of the %shome icon%s"
 msgstr "Klik die pyl regs van die %stuisikoon%s"
@@ -962,7 +962,7 @@ msgstr "Klik die uitspringlys in die soekboks"
 msgid ""
 "Click the dropdown menu beside %sSearch engine used in the address bar%s and "
 "select %sDuckDuckGo%s."
-msgstr ""
+msgstr "Klik die uitspringkieslys langs %sSoekenjin vir gebruik in adresbalk&s en kies %sDuckDuckGo%s."
 
 msgid "Click the magnifying glass in the search bar"
 msgstr "Klik op die vergrootglas in die soekbalk"
@@ -992,30 +992,30 @@ msgstr "Gesluit"
 
 msgctxt "maps_places"
 msgid "Closed"
-msgstr ""
+msgstr "Gesluit"
 
 msgctxt "maps_places"
 msgid "Closes"
-msgstr ""
+msgstr "Sluit"
 
 msgctxt "maps_places"
 msgid "Closes soon"
-msgstr ""
+msgstr "Sluit binnekort"
 
 #. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud. 
 msgid "Cloud Save"
-msgstr ""
+msgstr "Wolkbewaring"
 
 #. Title for the <em>Save Settings</em> form that is displayed when you click on the <em>Save Settings</em> from the <a href="https://duckduckgo.com/settings.html">settings page</a>.
 msgctxt "cloudsave"
 msgid "Cloud Save"
-msgstr ""
+msgstr "Wolkbewaring"
 
 #. Enable cloud save, then click "Show Bookmarklet and Settings Data" - http://i.imgur.com/leUkNoB.png
 #. Then in the box that opens - http://i.imgur.com/8D4DdF8.png
 msgctxt "settings"
 msgid "Cloud Save Bookmarklet URL:"
-msgstr "Wolk Spaar Boekmark URL"
+msgstr "Wolkbewaringboekmerkiebronadres:"
 
 #. You need to load cloud save to see the message. http://i.imgur.com/rDsoI7u.png
 msgctxt "cloudsave"
@@ -1025,7 +1025,7 @@ msgstr "Wolkbewaring Geaktiveer"
 #. Self informative <em>Cloud Save FAQ</em> title for the FAQ about how your settings data can be stored anonymously.  
 msgctxt "cloudsave"
 msgid "Cloud Save FAQ"
-msgstr "Cloud Save Vrae"
+msgstr "Wolkbewaring Vrae"
 
 #. Expand the Cloud Save box - http://i.imgur.com/1OudbYX.png
 #. At the bottom of the box - http://i.imgur.com/U79ETEb.png
@@ -1039,11 +1039,11 @@ msgid ""
 "Cloud Save lets you save your settings more permanently by entering a "
 "passphrase. It is entirely optional."
 msgstr ""
-"Cloud Save laat jy jou verstellings stoor meer permanent deur 'n "
-"wagwoordfrase. Dit is heeltemal opsioneel."
+"Wolkbewaring laat u u instellings meer permanent bewaar deur ’n "
+"wagwoordfrase in te voer. Dit is heeltemal opsioneel."
 
 msgid "Colombia"
-msgstr ""
+msgstr "Colombia"
 
 #. Instant Answer tab name
 msgid "Color"
@@ -1114,7 +1114,7 @@ msgstr "Kopieregskending"
 
 msgctxt "SERP footer content"
 msgid "Coronavirus Info & Tips"
-msgstr ""
+msgstr "Coronavirusinligting & wenke"
 
 #. Instant Answer Tab Name
 msgid "Coupons"
@@ -1122,11 +1122,11 @@ msgstr "Koepons"
 
 msgctxt "Place detail"
 msgid "Covid-19"
-msgstr ""
+msgstr "Covid-19"
 
 msgctxt "video-license"
 msgid "Creative Commons"
-msgstr ""
+msgstr "Creative Commons"
 
 msgctxt "attribution"
 msgid "Credits"
@@ -1163,7 +1163,7 @@ msgstr "Pasgemaakte %s"
 
 msgctxt "settings"
 msgid "Customize DuckDuckGo"
-msgstr ""
+msgstr "Maak DuckDuckGo pas"
 
 msgid "Czech Republic"
 msgstr "Tsjeggiese Republiek"
@@ -1296,7 +1296,7 @@ msgstr "Maak ’n Veiligheidskenking"
 
 msgctxt "precise_user_location"
 msgid "Done"
-msgstr ""
+msgstr "Gereed"
 
 msgid "Download file"
 msgstr "Laai lêer af"
@@ -1314,7 +1314,7 @@ msgstr "Duck dit"
 
 #. this is either the title that gets created by opening https://duckduckgo.com/duckduckbot or the top header in https://duckduckgo.com/duckduckbot
 msgid "DuckDuckGo Bot"
-msgstr ""
+msgstr "DuckDuckGo-bot"
 
 #. This is the title for the <a href="https://duckduckgo.com/feedback.html">feedback page</a>, used in the title bar of your browser and the title of your tabs.
 msgid "DuckDuckGo Feedback"
@@ -1322,7 +1322,7 @@ msgstr "DuckDuckGo Terugvoer"
 
 #. by opening https://duckduckgo.com/api it shows in the window title
 msgid "DuckDuckGo Instant Answer API"
-msgstr "DuckDuckGo Instant Antwoord API"
+msgstr "DuckDuckGo Kitsantwoord API"
 
 #. by opening https://duckduckgo.com/newbang it shows in the window title
 msgid "DuckDuckGo New !Bang"
@@ -1373,6 +1373,11 @@ msgid ""
 "away, such that you remain anonymous. Learn more about how we designed this "
 "technology to protect your privacy %shere%s."
 msgstr ""
+"DuckDuckGo is deur ontwerp privaat. Wanneer u ligging aktiveer, word dit slegs "
+"op u lokale toestel bewaar. Wanneer u soek stuur u toestel dit na ons, ons "
+"gebruik dit om resultate vir daardie soektog te verbeter, en dan gooi ons dit "
+"vinnig weg sodat u anoniem bly. %sLeer meer%s oor hoe ons hierdie tegnologie ontwerp "
+"het om u privaatheid te beskerm."
 
 msgid "DuckDuckGo search"
 msgstr "DuckDuckGo-soektog"
@@ -1383,11 +1388,11 @@ msgstr "DuckDuckGo-instellings"
 
 msgctxt "forecast"
 msgid "E"
-msgstr ""
+msgstr "O"
 
 msgctxt "settings"
 msgid "EU Android Welcome Message"
-msgstr ""
+msgstr "EU Android-verwelkomingsboodskap"
 
 #. Stuff explaining <em>how does passphrase generation work</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
@@ -1397,8 +1402,8 @@ msgid ""
 "Each time you ask for a passphrase suggestion, we get a reasonably large "
 "list of random words from the DuckDuckGo servers."
 msgstr ""
-"Elke keer wat jy 'n wagwoordfrase voorstel aanvraag maak ontvang ons 'n "
-"redelike groot lys lukrake woorde vanaf die DuckDuckGo bedieners."
+"Elke keer wat u ’n wagfrase voorstel aanvra ontvang ons ’n relatiewe "
+"groot lys lukrake woorde vanaf die DuckDuckGo-bedieners."
 
 #. Form field for your email ;)
 #. From <a href="https://duckduckgo.com/newbang.html ">new !bang page</a> and <a href="https://duckduckgo.com/feedback.html">feedback page</a>. 
@@ -1407,29 +1412,29 @@ msgstr "E-pos"
 
 msgctxt "precise_user_location"
 msgid "Enable 'Sites can ask for my location.'"
-msgstr ""
+msgstr "Aktiveer ‘Werwe kan vir my ligging vra.’"
 
 msgctxt "precise_user_location"
 msgid "Enable Location"
-msgstr ""
+msgstr "Aktiveer ligging"
 
 msgctxt "new tab page"
 msgid "Enable Most Visited Sites"
-msgstr ""
+msgstr "Aktiveer Gereeld besoekte webwerwe"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/fUS6WAi.png
 msgctxt "cloudsave"
 msgid "Enable cloud save by entering your existing passphrase."
-msgstr "Tik in jou bestaande wagwoordfrase om cloud save te aktiveer."
+msgstr "Voer u bestaande wagfrase in om wolkbewaring te aktiveer."
 
 msgctxt "precise_user_location"
 msgid "Enable the Location setting on your phone."
-msgstr ""
+msgstr "Aktiveer die ligginginstelling op u foon."
 
 msgctxt "settings"
 msgid "Enables keyboard shortcuts on the site"
-msgstr "Aktiveer"
+msgstr "Aktiveer sneltoetse op hierdie werf"
 
 msgid "Encrypt Connections"
 msgstr "Eknripteer Verbindings"
@@ -1437,7 +1442,7 @@ msgstr "Eknripteer Verbindings"
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Encrypts connections when possible"
-msgstr ""
+msgstr "Dit enkripteer verbindings wanneer moontlik"
 
 msgid "Enjoy Peace of Mind"
 msgstr "Geniet Gemoedsrus"
@@ -1452,8 +1457,8 @@ msgid ""
 "Enter a new passphrase and click 'Save Settings' This will save your data "
 "under your new passphrase."
 msgstr ""
-"Voer ’n nuwe wagwoordfrase in en klik ‘Bewaar Instellings’. Dit sal u data "
-"onder u nuwe wagwoordfrase bewaar."
+"Voer ’n nuwe wagfrase in en klik ‘Bewaar Instellings’. Dit sal u data "
+"onder u nuwe wagfrase bewaar."
 
 #. http://i.imgur.com/qo0C6MA.png
 msgctxt "settings"
@@ -1479,7 +1484,7 @@ msgstr "Voer u wagfrase in om u instellings te laai:"
 #. Then - http://i.imgur.com/K6c3e4L.png
 msgctxt "settings"
 msgid "Enter your pass phrase to load your settings:"
-msgstr "Voer u wagwoordfrase in om u instellings te laai:"
+msgstr "Voer u wagfrase in om u instellings te laai:"
 
 #. One of the options for the dropdown select list that help to categorize your request.
 #. Inside <a href="https://duckduckgo.com/newbang.html">new !bang page</a>.
@@ -1507,7 +1512,7 @@ msgstr ""
 
 msgctxt "mobile expanded map"
 msgid "Expand Map"
-msgstr ""
+msgstr "Brei kaart uit"
 
 msgctxt "Report image modal"
 msgid "Explicit content"
@@ -1533,7 +1538,7 @@ msgstr "Terugvoer Gestuur"
 
 msgctxt "feedback form"
 msgid "Feedback Sent Successfully"
-msgstr ""
+msgstr "Terugvoer suksesvol verstuur"
 
 #. https://duckduckgo.com/search_box
 msgid ""
@@ -1571,7 +1576,7 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Find results closer to you."
-msgstr ""
+msgstr "Vind resultate nader aan u."
 
 msgctxt "showcase_privacy"
 msgid "Find useful privacy advice on our blog."
@@ -1582,7 +1587,7 @@ msgid "Fine-tune Your Search"
 msgstr "Verfyn u Soektog"
 
 msgid "Finland"
-msgstr ""
+msgstr "Finland"
 
 #. Instant Answer Tab Name
 msgid "Flights"
@@ -1608,14 +1613,14 @@ msgstr "Vir streeksgebonde resultate"
 #. Part of a list of what our app can do. The app can: …
 msgctxt "welcome message eu search preference android"
 msgid "Force encryption on websites"
-msgstr ""
+msgstr "Dwing enkripsie op webwerwe"
 
 msgid "France"
 msgstr "Frankryk"
 
 msgctxt "new user poll"
 msgid "Friend or family"
-msgstr "30"
+msgstr "Vriend of familie"
 
 #. http://i.imgur.com/tGau0Vx.png
 msgctxt "settings"
@@ -1665,18 +1670,18 @@ msgstr "Kry Privaatheidswenke"
 
 msgctxt "SERP footer content"
 msgid "Get Started at Duck.com"
-msgstr ""
+msgstr "Val weg by Duck.com"
 
 msgid "Get Web links"
 msgstr "Kry Webskakels"
 
 msgctxt "SERP footer content"
 msgid "Get official COVID-19 info and tips to help stop the spread."
-msgstr ""
+msgstr "Kry amptelike COVID-19-inligting en wenke om verspreiding te voorkom."
 
 msgctxt "Homepage alert button "
 msgid "Get official COVID-19 info and tips."
-msgstr ""
+msgstr "Kry amptelike COVID-19-inligting en wenke"
 
 msgid ""
 "Get seamless privacy protection on your browser for free with one download:"
@@ -1692,7 +1697,7 @@ msgstr "Kry hierdie liedjie by:"
 
 msgctxt "SERP footer content"
 msgid "Get to DuckDuckGo faster. Share duck.com with your friends."
-msgstr ""
+msgstr "Kom vinniger by DuckDuckGo uit. Deel duck.com met u vriende."
 
 msgctxt "spread_badge"
 msgid "Get your friends to switch and help us grow!"
@@ -1733,16 +1738,16 @@ msgid "Grey"
 msgstr "Grys"
 
 msgid "Grid mode disabled for this answer"
-msgstr "Roostermodus vir hierdie antwoord gedeaktiweer"
+msgstr "Roostermodus vir hierdie antwoord gedeaktiveer"
 
 #. http://i.imgur.com/LHG4IZQ.png
 msgctxt "settings"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #. <em>kh</em>'s label for one of the privacy settings query parameters into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "HTTPS:"
-msgstr ""
+msgstr "HTTPS:"
 
 msgctxt "settings"
 msgid "Header Appearance"
@@ -1764,15 +1769,15 @@ msgstr "Kop:"
 
 #. homepage/ bottom right under More.
 msgid "Help"
-msgstr ""
+msgstr "Hulp"
 
 msgctxt "precise_user_location"
 msgid "Help"
-msgstr ""
+msgstr "Hulp"
 
 msgctxt "feedback form"
 msgid "Help DuckDuckGo%s improve searches like this"
-msgstr ""
+msgstr "Help DuckDuckGo%s om soortgelyke soektogte te verbeter"
 
 msgctxt "settings"
 msgid "Help Improve DuckDuckGo"
@@ -1800,11 +1805,11 @@ msgstr "Hier is ’n paar dinge wat ons gemaak het waarvan u dalk sal hou."
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Here's what it does:"
-msgstr ""
+msgstr "Dit is wat dit doen:"
 
 msgctxt "new tab page"
 msgid "Hide Most Visited Sites"
-msgstr ""
+msgstr "Versteek gereeld besoekte webwerwe"
 
 #. "Hide pass phrase" appears in the Load Cloud Settings box: http://i.imgur.com/24xv6L8.png  
 msgctxt "settings"
@@ -1828,7 +1833,7 @@ msgid ""
 "Hit %sReturn%s on your keyboard to %ssave DuckDuckGo to the list. %sThen "
 "click %sMake Default%s"
 msgstr ""
-"Druk die %sDoensleutel%s op u sleutelbord %som DuckDuckGo tot die lys toe te "
+"Druk die %sDoentoets%s op u toetsbord %som DuckDuckGo tot die lys toe te "
 "voeg. %sKlik dan %sMaak Verstek%s"
 
 msgctxt "settings"
@@ -1844,18 +1849,18 @@ msgstr "Ure"
 
 msgctxt "Place detail"
 msgid "Hours may not reflect changes made due to"
-msgstr ""
+msgstr "Ure weerspieël dalk nie veranderinge nie weens"
 
 msgctxt "SERP footer content"
 msgid "How We Are Profitable"
-msgstr ""
+msgstr "Hoe ons winsgewend is"
 
 #. Title for the stuffs explaining <em>how to change your passphrase</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How do I change my passphrase?"
-msgstr "Hoe verander ek my wagwoordfrase?"
+msgstr "Hoe verander ek my wagfrase?"
 
 #. Title for the stuffs explaining <em>how the cloud save works</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
@@ -1869,7 +1874,7 @@ msgstr "Hoe werk dit?"
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How does passphrase generation work?"
-msgstr "Hoe werk wagwoordfraseskepping?"
+msgstr "Hoe werk wagraseskepping?"
 
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. Title for a small paragraph about how DuckDuckGo doesn't store <strong>ANY</strong> personal informations (including your username). How are you BTW for asking this???
@@ -1884,36 +1889,36 @@ msgstr "Hoe dit Werk"
 
 msgctxt "forecast"
 msgid "Humidity"
-msgstr ""
+msgstr "Humiditeit"
 
 msgid "Hungary"
 msgstr "Hongarye"
 
 msgctxt "feedback form"
 msgid "I don't want this type of result"
-msgstr ""
+msgstr "Ek soek nie hierdie tipe resultaat nie"
 
 msgctxt "feedback form"
 msgid "I don't want this type of results"
-msgstr ""
+msgstr "Ek soek nie hierdie tipe resultate nie"
 
 #. Title for the stuff explaining <em>how DuckDuckGo <strong>REALLY doesn't</strong> track you</em>.
 #. From the <a href="https://duckduckgo.com/settings.html">settings page</a>. 
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "I forgot my passphrase. Can you recover it?"
-msgstr "Ek het my wagwoordfrase vergeet? Kan u dit herwin?"
+msgstr "Ek het my wagfrase vergeet? Kan u dit herwin?"
 
 msgid "I need to report a bug!"
 msgstr "Ek wil 'n fout rapporteer!"
 
 #. https://duckduckgo.com/feedback
 msgid "I want to tell you about something I don't love."
-msgstr "Ek wil julle vertel oor iets wat ek nie van hou nie."
+msgstr "Ek wil u vertel oor iets wat ek nie van hou nie."
 
 #. https://duckduckgo.com/feedback
 msgid "I want to tell you about something I love."
-msgstr "Ek wil jou vertel van iets wat ek liefhet."
+msgstr "Ek wil u vertel van iets waarvan ek hou."
 
 #. One of the options for feedback: https://duckduckgo.com/feedback
 msgid "I'd like to report bad relevancy."
@@ -1921,11 +1926,11 @@ msgstr "Ek wil graag swak relevantheid rapporteer."
 
 msgctxt "precise_user_location"
 msgid "I'm uncomfortable using my location."
-msgstr ""
+msgstr "Gebruik van my ligging maak my ongemaklik."
 
 #. From the guide in the Feedback page: https://duckduckgo.com/feedback
 msgid "I've got a feature request."
-msgstr "Ek het 'n funksie versoek."
+msgstr "Ek wil ’n funksie versoek."
 
 msgid ""
 "If you don't see %sDuckDuckGo,%s you will need to add it to the list of "
@@ -2046,7 +2051,7 @@ msgstr "Outolaai Beelde"
 
 msgctxt "settings"
 msgid "Infinite Scroll for Images and Videos"
-msgstr ""
+msgstr "Oneindige Rol vir beelde en video’s"
 
 msgid "Install"
 msgstr "Installeer"
@@ -2065,7 +2070,7 @@ msgstr "Installeer DuckDuckGo Safari-uitbreiding?"
 
 #. in https://duckduckgo.com/api/, topmost header
 msgid "Instant Answer API"
-msgstr "Oombliklike Antwoord API"
+msgstr "Kitsantwoord API"
 
 #. http://i.imgur.com/XW6brqX.png
 msgctxt "settings"
@@ -2103,7 +2108,7 @@ msgid "Is someone working on your zero-click plugin?"
 msgstr " Is daar iemand wat werk op jou zero-kliek plugin?"
 
 msgid "Israel"
-msgstr ""
+msgstr "Israel"
 
 #. https://duckduckgo.com/settings near the bottom, under "Cloud Save", by clicking "What's this", under "How does passphrase generation work?"
 msgctxt "cloudsave"
@@ -2116,7 +2121,7 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "It's not working."
-msgstr ""
+msgstr "Dit werk nie."
 
 msgctxt "settings"
 msgid ""
@@ -2128,10 +2133,10 @@ msgid "Italy"
 msgstr "Italië"
 
 msgid "Items"
-msgstr ""
+msgstr "Items"
 
 msgid "Japan"
-msgstr ""
+msgstr "Japan"
 
 #. Instant Answer Tab Name (below the search box, above the results) 
 msgid "Jobs"
@@ -2147,7 +2152,7 @@ msgstr "Sluit aan by ons $500,000 Privaatheid Uitdaging"
 
 msgid "Just a few clicks to install, and you're ready to go. It's that easy."
 msgstr ""
-"Installeer met slegs 'n paar klikke, en u is reg vir aksie. Dis hoe maklik "
+"Installeer met slegs ’n paar klikke, en u is reg vir aksie. Dis hoe maklik "
 "dit is."
 
 msgid "Keep in Touch"
@@ -2163,10 +2168,10 @@ msgstr "Hou u soekgeskiedenis privaat."
 #. Section heading (for right column).
 msgctxt "settings"
 msgid "Keyboard Shortcuts"
-msgstr "Snelsleutels"
+msgstr "Sneltoetse"
 
 msgid "Korea"
-msgstr ""
+msgstr "Korea"
 
 #. http://i.imgur.com/L74c87B.png 
 #. Adjusts the displayed language of DuckDuckGo (translations)
@@ -2236,7 +2241,7 @@ msgstr "Leer oor Knalle"
 
 msgctxt "showcase_newsletter"
 msgid "Learn about online privacy right in your inbox."
-msgstr " Leer meer oor aanlyn privaatheid direk in u posbus."
+msgstr "Leer meer oor aanlyn privaatheid direk in u posbus."
 
 msgctxt "SERP footer content"
 msgid "Learn how to protect your privacy."
@@ -2248,7 +2253,7 @@ msgstr "Leer om soos ’n professionele mens te soek."
 
 msgctxt "precise_user_location"
 msgid "Learn how we keep your location private %shere%s."
-msgstr ""
+msgstr "Leer %shier%s hoe ons u ligging privaat hou."
 
 msgctxt "SERP footer content"
 msgid "Learn how we're dedicated to keeping you safe online."
@@ -2269,7 +2274,7 @@ msgstr "Leer waarom nasporingsvermindering belangrik is."
 #. Discontinued, don't translate
 msgctxt "placement"
 msgid "Left"
-msgstr "Lings"
+msgstr "Links"
 
 msgid "Legal"
 msgstr "Wetlik"
@@ -2281,7 +2286,7 @@ msgstr "Korter as 4 minute"
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Lets you search anonymously with DuckDuckGo"
-msgstr ""
+msgstr "Laat u anoniem met DuckDuckGo soek"
 
 #. Discontinued, don't translate
 msgid "Light blue"
@@ -2333,7 +2338,7 @@ msgstr "Laai tans…"
 
 msgctxt "settings"
 msgid "Loads more image and video results when scrolling"
-msgstr ""
+msgstr "Laai nog beeld- en videoresultate wanneer gerol word"
 
 msgctxt "settings"
 msgid "Loads more image results when scrolling"
@@ -2350,7 +2355,7 @@ msgstr "Plek"
 
 msgctxt "precise_user_location"
 msgid "Location information is stored only on your device."
-msgstr ""
+msgstr "Ligginginligting word slegs op u toestel bewaar."
 
 msgctxt "video-duration"
 msgid "Long"
@@ -2400,7 +2405,7 @@ msgstr "Kaarte / Ligginginligting"
 #. In creating a new bang 
 #. reference: https://duckduckgo.com/newbang
 msgid "Mark where the search goes with {{{s}}}"
-msgstr "Mark waar die search gaan met {{{s}}}"
+msgstr "Markeer waar die soektog gaan met {{{s}}}"
 
 #. In 0-click box -- for disambiguation.
 msgid "Meanings"
@@ -2408,16 +2413,16 @@ msgstr "Beteken"
 
 msgctxt "settingsvalue"
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #. http://i.imgur.com/Gy9D9Bx.png
 msgctxt "size"
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 msgctxt "video-duration"
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #. Header for front page menu
 msgid "Menu"
@@ -2429,7 +2434,7 @@ msgstr "Kieslys"
 
 msgctxt "settingsvalue"
 msgid "Metric (Kilograms, Meters, Celsius)"
-msgstr "Metriek (Kilogramme, Meter, Celcius)"
+msgstr "Metriek (Kilogram, Meter, Celcius)"
 
 msgid "Mexico"
 msgstr "Meksiko"
@@ -2441,7 +2446,7 @@ msgstr "Middel"
 
 msgctxt "settings"
 msgid "Mobile Instructions (not displayed on settings page)"
-msgstr ""
+msgstr "Mobiele instruksies (nie op instellingsblad vertoon)"
 
 msgctxt "safe search"
 msgid "Moderate"
@@ -2458,46 +2463,46 @@ msgstr "Meer"
 #. Link to load more page context
 msgctxt "additional"
 msgid "More"
-msgstr "Meer"
+msgstr "Nog"
 
 #. As in Learn More
 msgctxt "frontpage"
 msgid "More"
-msgstr "Meer"
+msgstr "Nog"
 
 msgid "More Images"
-msgstr "Nog Beelde"
+msgstr "Nog beelde"
 
 msgid "More Info"
-msgstr "Nog Inligting"
+msgstr "Nog inligting"
 
 msgctxt "Ads GDPR, internal use only. Do not change"
 msgid "More Info"
-msgstr ""
+msgstr "Nog inligting"
 
 msgid "More Links"
-msgstr "Meer Skakels"
+msgstr "Nog skakels"
 
 msgid "More News"
-msgstr "Nog Nuus"
+msgstr "Nog nuus"
 
 msgid "More Places"
-msgstr "Nog Plekke"
+msgstr "Nog plekke"
 
 msgid "More Products"
-msgstr ""
+msgstr "Nog produkte"
 
 msgid "More Recipes"
-msgstr ""
+msgstr "Nog resepte"
 
 msgid "More Related Topics"
-msgstr "Meer Verwante Onderwerpe"
+msgstr "Nog verwante onderwerpe"
 
 msgid "More Themes"
-msgstr "Meer Temas"
+msgstr "Nog temas"
 
 msgid "More Videos"
-msgstr "Nog Video’s"
+msgstr "Nog video’s"
 
 msgid "More about !bangs"
 msgstr "Meer oor !knalle"
@@ -2520,10 +2525,10 @@ msgstr "Meer van"
 
 msgctxt "precise_user_location"
 msgid "More info"
-msgstr ""
+msgstr "Meer inligting"
 
 msgid "More on %s "
-msgstr ""
+msgstr "Meer op %s "
 
 #. A link to get more results from a particular domain.
 msgid "More results"
@@ -2535,7 +2540,7 @@ msgstr "Nog resultate"
 
 msgctxt "more_reviews_on_external_website"
 msgid "More reviews on %s "
-msgstr ""
+msgstr "Nog resensies op %s "
 
 msgctxt "video-duration"
 msgid "More than 20 minutes"
@@ -2548,20 +2553,20 @@ msgstr "Nog maniere om DuckDuckGo tot %s toe te voeg"
 
 msgctxt "precise_user_location"
 msgid "Move map to set current location"
-msgstr ""
+msgstr "Skuif kaart om huidige ligging te stel"
 
 #. Instant Answer Tab Name
 msgid "Movies"
-msgstr "Flieks"
+msgstr "Rolprente"
 
 msgctxt "settings"
 msgid "Multi-Step Add-to-Browser Onboarding Step"
-msgstr ""
+msgstr "Veelstap Voeg-tot-blaaier aanboordstap"
 
 #. in https://duckduckgo.com/newbang under "Choose Category"
 msgctxt "bangcat"
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Music"
 msgstr "Musiek"
@@ -2572,20 +2577,20 @@ msgstr "Sagte rooi"
 
 msgctxt "forecast"
 msgid "N"
-msgstr ""
+msgstr "N"
 
 msgctxt "forecast"
 msgid "NE"
-msgstr ""
+msgstr "NO"
 
 #. NPM = node.js package manager.
 #. e.g. https://duckduckgo.com/?q=npm+packages
 msgid "NPM"
-msgstr ""
+msgstr "NPM"
 
 msgctxt "forecast"
 msgid "NW"
-msgstr ""
+msgstr "NW"
 
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Nearby"
@@ -2604,7 +2609,7 @@ msgstr "Nederland"
 
 msgctxt "settings"
 msgid "New Tab Page Most Visited Sites"
-msgstr ""
+msgstr "Nuwe oortjie gereeld besoekte webwerwe"
 
 msgid "New Zealand"
 msgstr "Nieu-Seeland"
@@ -2646,11 +2651,11 @@ msgid "No %s found for %s%s%s."
 msgstr "Geen %s gevind vir %s%s%s."
 
 msgid "No More Photos"
-msgstr "Geen Verdere Fotos"
+msgstr "Geen verdere foto’s"
 
 msgctxt "settingsvalue"
 msgid "No Preference (Default)"
-msgstr "Geen Voorkeur (Verstek)"
+msgstr "Geen voorkeur (Verstek)"
 
 msgctxt "settings"
 msgid "No Region Selected"
@@ -2727,7 +2732,7 @@ msgstr "Nie Gestel Nie"
 
 msgctxt "precise_user_location"
 msgid "Not getting nearby results?"
-msgstr ""
+msgstr "Kry u nie naby-resultate nie?"
 
 msgid "Not many results contain %s."
 msgstr "Min resultate bevat %s."
@@ -2807,7 +2812,7 @@ msgstr "Aanlyn Dienste"
 
 msgctxt "new user poll"
 msgid "Online article"
-msgstr "Aanlynartikel"
+msgstr "Aanlyn artikel"
 
 #. http://i.imgur.com/1Ri3uHl.png
 msgctxt "cloudsave"
@@ -2820,7 +2825,7 @@ msgstr ""
 
 msgctxt "maps_places"
 msgid "Open"
-msgstr ""
+msgstr "Open"
 
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Open %sKieslys > Instellings > Soek%s en kies DuckDuckGo!"
@@ -2841,11 +2846,11 @@ msgstr "Open %sInstellings%s"
 
 msgctxt "maps_places"
 msgid "Open 24 hours"
-msgstr ""
+msgstr "24 uur oop"
 
 msgctxt "settings"
 msgid "Open Directions in..."
-msgstr ""
+msgstr "Open aanwysings in…"
 
 msgctxt "maps_places"
 msgid "Open Expanded Map"
@@ -2870,7 +2875,7 @@ msgstr "Open ’n nuwe oortjie of venster"
 #. shown when DDG is selected after eu preference menu on android
 msgctxt "welcome message eu search preference android"
 msgid "Open app"
-msgstr ""
+msgstr "Open toep"
 
 msgctxt "open_in_third_party_app"
 msgid "Open in %s"
@@ -2883,7 +2888,7 @@ msgstr "Open op derdepartywebwerf"
 
 msgctxt "maps_places"
 msgid "Opens"
-msgstr ""
+msgstr "Open"
 
 #. http://i.imgur.com/iCNwHqR.png  
 #. This setting controls how results open when you click on them. 
@@ -2893,11 +2898,11 @@ msgstr "Open resultate in nuwe vensters/oortjies"
 
 msgctxt "maps_places"
 msgid "Opens soon"
-msgstr ""
+msgstr "Open binnekort"
 
 msgctxt "feedback form"
 msgid "Optional"
-msgstr ""
+msgstr "Opsioneel"
 
 msgctxt "maps_maps_module"
 msgid "Or did you mean:"
@@ -2928,11 +2933,11 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Other."
-msgstr ""
+msgstr "Ander"
 
 msgctxt "SERP footer content"
 msgid "Our Crash Course"
-msgstr ""
+msgstr "Ons Kitstoer"
 
 msgctxt "homepage onboarding"
 msgid ""
@@ -2965,7 +2970,7 @@ msgstr "Meer as 15 miljard anonieme soektogte."
 
 msgctxt "maps_places"
 msgid "Overview"
-msgstr ""
+msgstr "Oorsig"
 
 #. Instant Answer Tab Name
 msgid "Packages"
@@ -3016,7 +3021,7 @@ msgstr "Wagfrase nie gevind nie"
 #. Then - http://i.imgur.com/pN6edwb.png
 msgctxt "cloudsave"
 msgid "Passphrases cannot feasibly be reverse engineered from a key"
-msgstr "Wagwoorde kan nie feasibly omgekeerde ontwerp word van 'n sleutel"
+msgstr "Wagfrases kan nie wesenlik vanaf ’n sleutel terugwaard uitgewerk word nie"
 
 #. Option for the filter-by-date search.
 msgid "Past Day"
@@ -3036,10 +3041,10 @@ msgstr "Afgelope Jaar"
 
 msgctxt "settings"
 msgid "Personalize DuckDuckGo"
-msgstr ""
+msgstr "Maak DuckDuckGo pas"
 
 msgid "Peru"
-msgstr ""
+msgstr "Peru"
 
 msgid "Philippines"
 msgstr "Filippyne"
@@ -3060,7 +3065,7 @@ msgid "Photograph"
 msgstr "Foto"
 
 msgid "Photos on %s"
-msgstr ""
+msgstr "Foto’s op %s"
 
 msgctxt "feedback form"
 msgid "Pick a category"
@@ -3095,7 +3100,7 @@ msgstr "Voer asb. ’n wagfrase in"
 
 msgctxt "precise_user_location"
 msgid "Please help us understand why:"
-msgstr ""
+msgstr "Help ons om te verstaan waarom:"
 
 msgid "Please select a region"
 msgstr "Kies asb. ’n streek"
@@ -3113,7 +3118,7 @@ msgstr "Probeer asb. weer"
 
 #. in https://duckduckgo.com/feedback under DuckDuckHack header
 msgid "Plugin suggestions?"
-msgstr "Plugin voorstelle?"
+msgstr "Inpropvoorstelle?"
 
 msgid "Poland"
 msgstr "Pole"
@@ -3123,7 +3128,7 @@ msgid "Policy"
 msgstr "Beleid"
 
 msgid "Portugal"
-msgstr ""
+msgstr "Portugal"
 
 msgctxt "settings"
 msgid "Preferred units of measure"
@@ -3191,7 +3196,7 @@ msgid "Privacy Newsletter"
 msgstr "Privaatheidsnuusbrief"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privaatheidsbeleid"
 
 msgid "Privacy Protection For Any Device"
 msgstr "Privaatheidbeskerming vir enige toestel"
@@ -3205,16 +3210,16 @@ msgstr "Privaatheid vir %s"
 
 msgctxt "SERP footer content"
 msgid "Privacy in Your Inbox"
-msgstr ""
+msgstr "Privaatheid in u inbus"
 
 msgctxt "showcase_newsletter"
 msgid "Privacy in Your Inbox"
-msgstr ""
+msgstr "Privaatheid in u inbus"
 
 #. shown when DDG is selected after eu preference menu on android
 msgctxt "welcome message eu search preference android"
 msgid "Privacy, simplified"
-msgstr ""
+msgstr "Privaatheid, vereenvoudig"
 
 msgid "Privacy, simplified."
 msgstr "Privaatheid, vereenvoudig."
@@ -3244,11 +3249,11 @@ msgstr "Vra my om blaaierligging anoniem te gebruik vir beter soekresultate."
 
 msgctxt "settings"
 msgid "Prompt me to customize my DuckDuckGo experience."
-msgstr ""
+msgstr "Por my om my DuckDuckGo-ervaring pas te maak."
 
 msgctxt "settings"
 msgid "Prompt me to personalize my DuckDuckGo experience."
-msgstr ""
+msgstr "Por my om my DuckDuckGo-ervaring pas te maak."
 
 msgctxt "SERP footer content"
 msgid "Protect Your Devices"
@@ -3259,7 +3264,7 @@ msgid "Protect Your Devices"
 msgstr "Beskerm U Toebehore"
 
 msgid "Protect Your Privacy!"
-msgstr "Peskerm U Privaatheid!"
+msgstr "Beskerm U Privaatheid!"
 
 msgctxt "showcase_app"
 msgid "Protect your data on every device."
@@ -3325,7 +3330,7 @@ msgid "Red"
 msgstr "Rooi"
 
 msgid "Reddit"
-msgstr ""
+msgstr "Reddit"
 
 msgctxt "settings"
 msgid "Redirect (when necessary)"
@@ -3354,10 +3359,10 @@ msgstr "Streek:"
 
 msgctxt "maps_places"
 msgid "Regular Hours Today"
-msgstr ""
+msgstr "Normale ure vandag"
 
 msgid "Related Searches"
-msgstr ""
+msgstr "Verwante soektogte"
 
 msgid "Related Topics"
 msgstr "Verwante Onderwerpe"
@@ -3380,7 +3385,7 @@ msgstr "Navorsing"
 
 msgctxt "settings dropdown"
 msgid "Reset"
-msgstr ""
+msgstr "Herstel"
 
 msgctxt "cloudsave"
 msgid "Reset All Settings"
@@ -3409,7 +3414,7 @@ msgstr "Resultaatverligkleur"
 
 msgctxt "settings"
 msgid "Result Hover, Module, and Dropdown Background Color"
-msgstr ""
+msgstr "Resultaathang-, -module- en uitspringagtergrondkleur"
 
 #. in https://duckduckgo.com/params in the top. it is the first header 
 msgid "Result Settings"
@@ -3459,17 +3464,17 @@ msgstr "Resultaatvoorkoms"
 
 msgctxt "precise_user_location"
 msgid "Results are good enough."
-msgstr ""
+msgstr "Resultate is goed genoeg"
 
 #. http://i.imgur.com/OODM0bR.png 
 #. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png 
 msgctxt "theme"
 msgid "Retro"
-msgstr ""
+msgstr "Retro"
 
 msgctxt "precise_user_location"
 msgid "Return to duckduckgo.com and allow permission."
-msgstr ""
+msgstr "Keer terug na duckduckgo.com en laat toestemming toe."
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "Reviews"
@@ -3477,7 +3482,7 @@ msgstr "Resensies"
 
 msgctxt "maps_places"
 msgid "Reviews"
-msgstr ""
+msgstr "Resensies"
 
 msgid "Romania"
 msgstr "Roemenië"
@@ -3487,15 +3492,15 @@ msgstr "Rusland"
 
 msgctxt "forecast"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 msgctxt "forecast"
 msgid "SE"
-msgstr ""
+msgstr "SO"
 
 msgctxt "forecast"
 msgid "SW"
-msgstr ""
+msgstr "SW"
 
 msgid "Safe Search"
 msgstr "Veilige Soek"
@@ -3503,7 +3508,7 @@ msgstr "Veilige Soek"
 #. http://i.imgur.com/hcN6sIA.png
 msgctxt "settings"
 msgid "Safe Search"
-msgstr " Afrikaans in South Africa"
+msgstr "Beveiligde soek"
 
 #. in https://duckduckgo.com/params near the top under "Result Settings" header
 msgid "Safe Search:"
@@ -3559,7 +3564,7 @@ msgid "Scroll down and click %sView advanced settings%s"
 msgstr "Rol af en klik %sBekyk gevorderde instellings%s"
 
 msgid "Scroll down and click %sView advanced settings%s."
-msgstr ""
+msgstr "Rol af en klik %sBekyk gevorderde instellings%s"
 
 msgid ""
 "Scroll down and find %sSearch in the address bar%s. Click on %sChange%s (or "
@@ -3574,7 +3579,7 @@ msgid ""
 msgstr ""
 
 msgid "Scroll down to the %sServices%s section and click %sAddress bar%s."
-msgstr ""
+msgstr "Rol af na die %sDienste%s-afdeling en klik %sAdresbalk%s."
 
 msgctxt "settings"
 msgid "Seach Visibility"
@@ -3602,7 +3607,7 @@ msgstr "Soekknopagtergrond"
 #. search for a place within the map area currently shown in expanded map
 msgctxt "vertical_map"
 msgid "Search Current Map Area"
-msgstr ""
+msgstr "Soek in huidige kaartarea"
 
 msgid "Search DuckDuckGo"
 msgstr "Soek DuckDuckGo"
@@ -3610,7 +3615,7 @@ msgstr "Soek DuckDuckGo"
 #. search for a place near the user's location
 msgctxt "vertical_map"
 msgid "Search Near My Location"
-msgstr ""
+msgstr "Soek naby my ligging"
 
 msgid "Search Options"
 msgstr "Soekopsies"
@@ -3653,7 +3658,7 @@ msgid "Searches %s using our %s"
 msgstr "Soek %s met die gebruik van ons %s"
 
 msgid "Searches related to \"%s\""
-msgstr ""
+msgstr "Soektogte verwant aan \"%s\""
 
 #. in https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Searching for info on our XMPP chat service?"
@@ -3703,7 +3708,7 @@ msgid "Select %sDuckDuckGo%s and click %sSet as default%s"
 msgstr "Kies %sDuckDuckGo%s en klik %sStel as verstek%s"
 
 msgid "Select %sDuckDuckGo%s and click %sSet as default%s."
-msgstr ""
+msgstr "Kies %sDuckDuckGo%s en klik %sStel as verstek%s"
 
 msgid "Select %sDuckDuckGo%s in the Default Search Engine drop down"
 msgstr "Kies %sDuckDuckGo%s in die Versteksoekenjinuitspringlys"
@@ -3738,29 +3743,29 @@ msgstr "Kies %sVoorkeure%s."
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch Engine%s"
-msgstr ""
+msgstr "Kies %sSoekenjin%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch engine%s, then %sOthers...%s"
-msgstr ""
+msgstr "Kies %sSoekenjin%s, dan %sAnder…%s"
 
 msgid "Select %sSettings%s"
 msgstr "Kies %sInstellings%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s"
-msgstr ""
+msgstr "Kies %sInstellings%s"
 
 msgid "Select %sSettings%s from the drop-down menu."
 msgstr "Kies %sInstellings%s op die uitspringkieslys."
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sAdvanced settings%s"
-msgstr ""
+msgstr "Kies %sInstellings%s, dan %sGevorderde instellings%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sDefault search engine%s"
-msgstr ""
+msgstr "Kies %sInstellings%s, dan %sVerstek soekenjin%s"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sSearch Engine%s"
@@ -3778,7 +3783,7 @@ msgstr "Kies DuckDuckGo!"
 
 msgctxt "precise_user_location"
 msgid "Select Settings > Location."
-msgstr ""
+msgstr "Kies Instellings > Ligging."
 
 msgid "Select a !bang for a direct site search"
 msgstr "Kies ’n !knal vir ’n direkte werfsoektog"
@@ -3800,7 +3805,7 @@ msgstr "Stuur terugvoer"
 
 msgctxt "feedback form"
 msgid "Send feedback for this result:"
-msgstr ""
+msgstr "Stuur terugvoer vir hierdie resultaat:"
 
 msgctxt "feedback form"
 msgid "Send feedback for:"
@@ -3811,7 +3816,7 @@ msgstr "Stel DuckDuckGo in as u %sversteksoekenjin"
 
 msgctxt "precise_user_location"
 msgid "Set Manually"
-msgstr ""
+msgstr "Stel handmatig in"
 
 msgid "Set as Default Search Engine"
 msgstr "Stel in as Versteksoekenjin"
@@ -3822,7 +3827,7 @@ msgstr "Stel in as Tuisblad"
 
 msgctxt "precise_user_location"
 msgid "Set your location manually, or ensure Location Services is enabled."
-msgstr ""
+msgstr "Stel u ligging handmatig in of maak seker Liggingdienste is geaktiveer."
 
 #. In the top dropdown menu  ("More" > "Settings")
 msgid "Settings"
@@ -3844,11 +3849,11 @@ msgstr "Deel DuckDuckGo en help vriende om hul privaatheid weer terug te neem!"
 
 msgctxt "feedback form"
 msgid "Share feedback for this result."
-msgstr ""
+msgstr "Deel terugvoer vir hierdie resultaat."
 
 msgctxt "feedback form"
 msgid "Share feedback on your search results."
-msgstr ""
+msgstr "Deel terugvoer oor u soekresultate."
 
 #. in https://duckduckgo.com/newbang under "Bang category " inside the drop-menu
 msgid "Shopping"
@@ -3869,7 +3874,7 @@ msgstr "Wys Boekmerk en Instellings Data"
 
 msgctxt "mobile expanded map"
 msgid "Show Detail"
-msgstr ""
+msgstr "Toon detail"
 
 msgctxt "expand_text"
 msgid "Show Less"
@@ -3877,7 +3882,7 @@ msgstr "Toon Minder"
 
 msgctxt "mobile expanded map"
 msgid "Show List"
-msgstr ""
+msgstr "Toon lys"
 
 msgctxt "expand_text"
 msgid "Show More"
@@ -3889,7 +3894,7 @@ msgstr "Toon Meer"
 
 msgctxt "new tab page"
 msgid "Show Most Visited Sites"
-msgstr ""
+msgstr "Toon gereeld besoekte webwerwe"
 
 msgctxt "settings"
 msgid "Show favicons for each result"
@@ -3906,7 +3911,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
-msgstr ""
+msgstr "Toon gereeld besoekte webwerwe op nn nuwe oortjieblad"
 
 msgctxt "settings"
 msgid "Show occasional reminders to add DuckDuckGo to your browser"
@@ -3968,15 +3973,15 @@ msgstr "Toon webresultate"
 
 msgctxt "settings"
 msgid "Show welcome message on top of the search results page"
-msgstr ""
+msgstr "Toon verwelkomingsboodskap bo-aan soekresultateblad"
 
 msgctxt "settings"
 msgid "Show welcome message to EU Android preference menu users"
-msgstr ""
+msgstr "Toon verwelkomingsboodskap aan EU Android-voorkeurkieslysgebruikers"
 
 msgctxt "SERP footer content"
 msgid "Show your DuckDuckGo pride with t-shirts, stickers, & more."
-msgstr ""
+msgstr "Toon u DuckDuckGo-trots met T-hemde, plakkers & meer"
 
 #. In the Instant Answers box -> viewing images -> the sentence over the first image. Eg. https://duckduckgo.com/?q=duckduckgo&ia=images
 msgctxt "visible"
@@ -4022,11 +4027,11 @@ msgstr "Werfikone"
 #. Subcategory
 msgctxt "newbang"
 msgid "Site name"
-msgstr "Webwerf naam"
+msgstr "Webwerfnaam"
 
 #. https://duckduckgo.com/newbang
 msgid "Site name, e.g. %s or %s"
-msgstr "Webwerf naam, bv %s of %s "
+msgstr "Webwerfnaam, bv. %s of %s "
 
 #. https://duckduckgo.com/params under Look & Feel Settings. It is a header
 msgid "Size:"
@@ -4106,18 +4111,18 @@ msgstr "Bly ingelig."
 
 msgctxt "SERP footer content"
 msgid "Stay protected and informed with our privacy newsletters."
-msgstr ""
+msgstr "Bly beskerm en ingelig met ons privaatheidsnuusbrief."
 
 msgctxt "showcase_newsletter"
 msgid "Stay protected and informed with our privacy newsletters."
-msgstr ""
+msgstr "Bly beskerm en ingelig met ons privaatheidsnuusbrief."
 
 #. Instant Answer tab name - eg. https://duckduckgo.com/?q=Energy+Transfer+Equity&ia=stock
 msgid "Stock"
 msgstr "Voorraad"
 
 msgid "Store"
-msgstr ""
+msgstr "Winkel"
 
 msgctxt "settings"
 msgid "Stores the previous region that was set"
@@ -4148,7 +4153,7 @@ msgstr "Stuur"
 
 msgctxt "precise_user_location"
 msgid "Submit"
-msgstr ""
+msgstr "Dien in"
 
 msgctxt "email newsletter"
 msgid "Subscribe"
@@ -4161,11 +4166,11 @@ msgstr "Teken in op ons Privaatheidskitskursus"
 #. http://i.imgur.com/BMM6X3h.png
 msgctxt "settings"
 msgid "Suggest a pass phrase"
-msgstr "Stel ’n wagwoordfrase voor"
+msgstr "Stel ’n wagfrase voor"
 
 msgctxt "settings"
 msgid "Suggest different phrase"
-msgstr "Stel verskillende frase voor"
+msgstr "Stel ander frase voor"
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4211,10 +4216,10 @@ msgid "Switzerland (it)"
 msgstr "Switserland (it)"
 
 msgid "TV"
-msgstr ""
+msgstr "TV"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 #. Recupera Tu Privacidad!
 msgid "Take Back Your Privacy!"
@@ -4229,7 +4234,7 @@ msgstr "Oefen beheer uit oor u persoonlike data."
 
 msgctxt "SERP footer content"
 msgid "Take our Privacy Crash Course and learn about online privacy."
-msgstr ""
+msgstr "Neem ons Privaatheidskitskursus en leer oor aanlyn privaatheid"
 
 msgctxt "image-layout"
 msgid "Tall"
@@ -4237,15 +4242,15 @@ msgstr "Lank"
 
 #. It's a color, if you are confused. See <a href="http://en.wikipedia.org/wiki/Tan_(color)">http://en.wikipedia.org/wiki/Tan_(color)</a>
 msgid "Tan"
-msgstr ""
+msgstr "Taan"
 
 msgctxt "precise_user_location"
 msgid "Tap the vertical dots in the DuckDuckGo app."
-msgstr ""
+msgstr "Tik die vertikale stippe in die DuckDuckGo-toep."
 
 msgctxt "color"
 msgid "Teal"
-msgstr ""
+msgstr "Teel"
 
 #. in https://duckduckgo.com/newbang in Bang category  in the drop-down menu
 msgctxt "bangcat"
@@ -4266,7 +4271,7 @@ msgid "Text:"
 msgstr "Teks:"
 
 msgid "Thailand"
-msgstr ""
+msgstr "Thailand"
 
 msgid "Thank you!"
 msgstr "Dankie!"
@@ -4281,6 +4286,9 @@ msgid ""
 "link is at increased risk of being intercepted by a third party. In rare "
 "cases this includes passwords, or payment details."
 msgstr ""
+"Dit beteken dat inligting wat tussen u toestel en die webwerf agter hierdie "
+"skakel gestuur is ’n groter risiko loop om onderskep te word. In buitengewone "
+"gevalle sluit dit wagwoorde of betaalbesonderhede in."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/elru00b.png
@@ -4299,7 +4307,7 @@ msgctxt "cloudsave"
 msgid ""
 "The cloud save bookmarklet is a URL that automatically enables cloud save."
 msgstr ""
-"Die cloud save button is 'n URL wat laat dat cloud save automaties werk"
+"Die wolkbewaringboekmerkie is ’n bronadres wat wolkbewaring outomaties aktiveer."
 
 #. in https://duckduckgo.com/newbang in the error message
 #. e.g.:
@@ -4327,7 +4335,7 @@ msgstr "Die soekenjin wat u nie volg nie. %sLeer Meer%s"
 
 msgctxt "SERP footer content"
 msgid "The world needs an alternative to the collect-it-all business model."
-msgstr ""
+msgstr "Die wêreld benodig nn alternatief tot die versamel-alles-sakemodel."
 
 #. Title for the theme menu:
 #. https://duck.co/media/files/theme.png
@@ -4364,7 +4372,7 @@ msgstr ""
 #. Then in the cloud save box - http://i.imgur.com/d2RxxQ8.png
 msgctxt "cloudsave"
 msgid "This has a few benefits:"
-msgstr "Dit het 'n paar voordele:"
+msgstr "Dit het ’n paar voordele:"
 
 msgctxt "attribution"
 msgid "This instant answer was made by the %sDuckDuckHack%s Community."
@@ -4375,6 +4383,8 @@ msgid ""
 "This list is generated by your browser. DuckDuckGo does not have access to "
 "your most visited sites."
 msgstr ""
+"Hierdie lys word deur u blaaier gegenereer. DuckDuckGo het nie toegang tot "
+"u gereeld besoekte webwerwe nie."
 
 #. Used for browsers not meeting certain requirements.
 msgid "This page requires %s"
@@ -4389,7 +4399,7 @@ msgstr ""
 
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
-msgstr ""
+msgstr "Hierdie webwerf gebruik nie ’n beveiligde, geënkripteerde verbinding (HTTPS) nie."
 
 #. In spanish: Esto borrará todos los ajustes. ¿Desea continuar?
 msgctxt "settings"
@@ -4403,7 +4413,7 @@ msgstr ""
 "voort?"
 
 msgid "Tired of being tracked online? %sWe can help.%s"
-msgstr "Wil jy nie meer aanlyn nagespoor word nie? %sOns kan help.%s"
+msgstr "Wil u nie meer aanlyn nagespoor word nie? %sOns kan help.%s"
 
 msgid "Today"
 msgstr "Vandag"
@@ -4437,7 +4447,7 @@ msgstr "Word deur %smilljoene%s wêreldwyd vertrou."
 
 #. Alternate header text for front page
 msgid "Try a search!"
-msgstr "Probeer 'n soektog!"
+msgstr "Doen ’n soektog!"
 
 msgctxt "noresults"
 msgid "Try different keywords."
@@ -4445,7 +4455,7 @@ msgstr "Probeer ander sleutelwoorde."
 
 msgctxt "precise_user_location"
 msgid "Try enabling anonymous location for more accurate results."
-msgstr ""
+msgstr "Probeer anonieme ligging aktiveer for akkurater resultate."
 
 msgctxt "noresults"
 msgid "Try fewer keywords."
@@ -4460,7 +4470,7 @@ msgstr "Probeer ons tuisblad wat nooit hierdie boodskappe toon nie:"
 
 msgctxt "precise_user_location"
 msgid "Try setting your location manually."
-msgstr ""
+msgstr "Probeer u ligging hantmatig instel."
 
 #. Message displayed sometimes at top of results (for bang syntax), e.g. <a href="https://duckduckgo.com/?q=twitter+test">https://duckduckgo.com/?q=twitter+test</a>
 msgid "Try: %s"
@@ -4468,7 +4478,7 @@ msgstr "Probeer: %s"
 
 msgctxt "new user poll"
 msgid "Trying DuckDuckGo again"
-msgstr "Probeer tans wees DuckDuckGo"
+msgstr "Probeer tans weer DuckDuckGo"
 
 msgid "Turkey"
 msgstr "Turkye"
@@ -4481,7 +4491,7 @@ msgid "Turn off:"
 msgstr "Skakel af:"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "Type %sDuckDuckGo%s in the first %sform field"
 msgstr "Tik %sDuckDuckGo%s in die eerste %svormveld in"
@@ -4569,11 +4579,11 @@ msgstr "Maateenhede"
 
 msgctxt "precise_user_location"
 msgid "Update"
-msgstr ""
+msgstr "Werk by"
 
 msgctxt "precise_user_location"
 msgid "Update Location"
-msgstr ""
+msgstr "Werk ligging by"
 
 msgctxt "new user poll"
 msgid "Upgrading to full-time user"
@@ -4613,7 +4623,7 @@ msgstr "Videoafspeel"
 
 #. Instant Answer Tab Name
 msgid "Videos"
-msgstr ""
+msgstr "Video’s"
 
 msgid "Vietnam"
 msgstr "Viëtnam"
@@ -4636,6 +4646,8 @@ msgid ""
 "Viewing ads is privacy protected by DuckDuckGo. Ad clicks are managed by "
 "Microsoft's ad network"
 msgstr ""
+"Kyk van advertensies word deur DuckDuckGo met privaatheid beskerm. Advertensie-"
+"klikke word deur Microsoft se advertensienetwerk bestuur"
 
 msgctxt "mobile promotion on desktop"
 msgid ""
@@ -4645,7 +4657,7 @@ msgstr "Besoek %sDuckDuckGo.com%s op u tablet of foon en volg die aanwysings."
 
 msgctxt "SERP footer content"
 msgid "Visit Our Store"
-msgstr ""
+msgstr "Besoek ons winkel"
 
 #. https://duckduckgo.com/params under "Color Settings" header
 msgid "Visited links:"
@@ -4653,37 +4665,37 @@ msgstr "Besoekte skakels:"
 
 msgctxt "forecast"
 msgid "W"
-msgstr ""
+msgstr "W"
 
 msgctxt "precise_user_location"
 msgid "Waiting For Location..."
-msgstr ""
+msgstr "Wag vir ligging…"
 
 msgctxt "size"
 msgid "Wallpaper"
-msgstr ""
+msgstr "Muurpapier"
 
 #. in https://duckduckgo.com/feedback under "DuckDuckHack" header
 msgid "Want to develop an instant answer?"
-msgstr " Wil jy 'n direkte antwoord te ontwikkel?"
+msgstr "Wil u ’n direkte antwoord ontwikkel?"
 
 msgctxt "feedback form"
 msgid "Want to tell us a bit more?"
-msgstr ""
+msgstr "Wil u ons meer vertel?"
 
 #. e.g. Video search viewing options: http://i.imgur.com/ofZeLRn.png
 msgid "Watch Here"
 msgstr "Kyk Hier"
 
 msgid "Watch on %s"
-msgstr ""
+msgstr "Kyk op"
 
 msgid "Watch on YouTube"
 msgstr "Kyk op YouTube"
 
 msgctxt "SERP footer content"
 msgid "We Protect Your Privacy"
-msgstr ""
+msgstr "Ons beskerm u privaatheid"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/vBsbibl.png
@@ -4713,7 +4725,7 @@ msgid ""
 "We don't associate your IP address or browser fingerprint or any other "
 "information with the file."
 msgstr ""
-"Ons assosieer nie jou IP-adres of webblaaier vingerafdruk of enige ander "
+"Ons assosieer nie u IP-adres of webblaaier vingerafdruk of enige ander "
 "inligting met die lêer nie."
 
 msgctxt "reasons-to-use-duckduckgo"
@@ -4745,7 +4757,7 @@ msgstr "Ons bewaar nie u persoonlike inligting nie."
 
 msgctxt "SERP footer content"
 msgid "We don't store your search history or follow you around the web."
-msgstr ""
+msgstr "Ons bewaar nie u soekgeskiedenis nie en volg u nie oor die web heen nie."
 
 msgctxt "SERP footer content"
 msgid "We don't track you, but others do."
@@ -4844,11 +4856,11 @@ msgstr "Webskakels"
 
 msgctxt "maps_places"
 msgid "Website"
-msgstr ""
+msgstr "Webwerf"
 
 msgctxt "settings"
 msgid "Welcome Message"
-msgstr ""
+msgstr "Verwelkomingsboodskap"
 
 msgctxt "new user poll"
 msgid "Welcome back!"
@@ -4860,7 +4872,7 @@ msgstr "Welkom by die Duck-kant!"
 
 msgctxt "maps_places"
 msgid "What People Say"
-msgstr ""
+msgstr "Wat mense sê"
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
@@ -4876,7 +4888,7 @@ msgstr "Waarvan het u gehou?"
 
 msgctxt "feedback form"
 msgid "What do you think?"
-msgstr ""
+msgstr "Wat dink u"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/ta4V0Xy.png
@@ -4891,7 +4903,7 @@ msgid ""
 "What is the cloud save bookmarklet and how does it differ from the URL "
 "parameter bookmarklet?"
 msgstr ""
-" Wat is die Cloud Save boekmerkie en hoe verskil dit van die URL parameter "
+"Wat is die Wolkbewaringboekmerkie en hoe verskil dit van die bronadresparameter-"
 "boekmerkie?"
 
 #. http://i.imgur.com/fDEZ8XN.png
@@ -4947,11 +4959,11 @@ msgstr "Wikipedia-inligting"
 
 msgctxt "forecast"
 msgid "Wind"
-msgstr ""
+msgstr "Wind"
 
 #. https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Would you like to help develop the platform?"
-msgstr "Wil jy help om die platform te ontwikkel?"
+msgstr "Wil u help om die platform te ontwikkel?"
 
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "
 msgid "Yellow"
@@ -4968,7 +4980,7 @@ msgstr "Ja"
 
 msgctxt "new user poll"
 msgid "Yes, new user!"
-msgstr "30"
+msgstr "Ja, nuwe gebruiker!"
 
 #. Option for the filter-by-date search.
 msgid "Yesterday"
@@ -4981,7 +4993,7 @@ msgid ""
 "You can do this by saving your settings under a different passphrase, "
 "optionally deleting the first set."
 msgstr ""
-"U kan dit doen deur u instellings onder ’n ander wagwoordfrase te bewaar; u "
+"U kan dit doen deur u instellings onder ’n ander wagfrase te bewaar; u "
 "sal die opsie gebied word om die eerste stel te skrap."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
@@ -5001,11 +5013,11 @@ msgstr "U kan u instellings tussen rekenaars en webblaaiers deel."
 msgctxt "cloudsave"
 msgid "You can store several sets of settings for different purposes."
 msgstr ""
-"Jy kan verskillende stelle stellings stoor vir verskillende doeleindes."
+"U kan verskillende stelle instellings vir verskillende doeleindes bewaar."
 
 msgctxt "welcome message"
 msgid "You now have the DuckDuckGo extension!"
-msgstr ""
+msgstr "U het nou die DuckDuckGo-uitbreiding!"
 
 msgid ""
 "You now have the tools you need to control your online footprint and take "
@@ -5024,6 +5036,8 @@ msgid ""
 "You're now searching privately in Chrome. Use our app instead of Chrome to "
 "browse privately too. It’s already installed and can:"
 msgstr ""
+"U soek nou privaat in Chrome. Gebruik ons toep i.p.v. Chrome om ook privaat "
+"te blaai. Dit is reeds geïnstalleer en kan:"
 
 msgid "You're now searching with privacy!"
 msgstr "U soek nou met privaatheid!"
@@ -5037,7 +5051,7 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "You've chosen not to set your location."
-msgstr ""
+msgstr "U het gekies om nie u ligging in te stel nie."
 
 msgid ""
 "YouTube (owned by Google) does not let you watch videos anonymously. As "
@@ -5062,6 +5076,8 @@ msgid ""
 "Your browser provides the list of most-visited sites. DuckDuckGo never has "
 "access to this data."
 msgstr ""
+"U blaaier verskaf nn lys van gereeld besoekte webwerwe. DuckDuckGo het nooit "
+"toegang tot hierie data nie."
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
@@ -5192,7 +5208,7 @@ msgid "temporarily"
 msgstr "tydelik"
 
 msgid "there was an error."
-msgstr "'n fout het voorgekom."
+msgstr "’n fout het voorgekom."
 
 msgctxt "moreinfo"
 msgid "this help page"
